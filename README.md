@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ejkaa
-- 👀 I’m interested in sports and mausic
+- 👀 I’m interested in sports and music
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me? @ejkaa_ on Instagram
