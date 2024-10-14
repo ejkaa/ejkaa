@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me? @ejkaa_ on Instagram
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I do mountain climbing from 10 y.o.
 
 <!---
