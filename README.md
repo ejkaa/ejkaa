@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ejkaa
 - 👀 I’m interested in sports, languages and music
 - 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking for a part-time job during my master's studies.
+- 💞️ I’m looking for a part-time job during my master's studies
 - 📫 How to reach me? @ejkaa_ on Instagram
 - ⚡ Fun fact: I do mountain climbing from 10 y.o.
